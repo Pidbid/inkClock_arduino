@@ -6,3 +6,7 @@ Arduino写的墨水屏显示的时钟，所用MCU为ESP8266（NODE_MCUNODE_MCU�
 
 ## tips
 还有许多需要修改和完善的地方，还在不断完善中……
+
+## 作者
+
+Blog:https://wicos.me
